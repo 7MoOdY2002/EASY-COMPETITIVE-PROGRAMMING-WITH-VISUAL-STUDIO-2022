@@ -31,5 +31,5 @@ Here is a little example:
 
 ---
 
-## **I don't particularly think this is the best way to do it, but this is how i manage my project for competitve programming, I hope this helped you and thank you very much for reading! 🤗**
+## **I don't particularly think this is the best way to do it, but this is how i manage my projects for competitve programming, I hope this helped you and thank you very much for reading! 🤗**
   
