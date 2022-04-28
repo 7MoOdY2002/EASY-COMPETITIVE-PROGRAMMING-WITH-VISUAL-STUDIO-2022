@@ -27,4 +27,9 @@ Of course it is reversible and you can anytime set it back to "NO", but pay atte
 
 Here is a little example:
 
+![image](https://user-images.githubusercontent.com/103985762/165749762-5cfce37c-0563-42d0-a598-28b1168e5366.png)
+
+---
+
+## **I don't particularly think this is the best way to do it, but this is how i manage my project for competitve programming, I hope this helped you and thank you very much for reading! 🤗**
   
