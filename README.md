@@ -5,7 +5,7 @@ First you create an empty project:
 
 ![image](https://user-images.githubusercontent.com/103985762/165747696-0ea8ae7e-7be5-4816-8de8-b3625092ac5d.png)
 
-You create your new cpp file and start work with it (I mean to finsih your problem) 🖥️
+You create your new cpp file and start work with it (I mean to finish your problem) 🖥️
 
 Here you can see how you create a new cpp file:
 
